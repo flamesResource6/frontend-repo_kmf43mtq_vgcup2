@@ -7,8 +7,8 @@ export default function Hero() {
         <Spline scene="https://prod.spline.design/4cHQr84zOGAHOehh/scene.splinecode" style={{ width: '100%', height: '100%' }} />
       </div>
       <div className="relative z-10 max-w-6xl mx-auto px-6 py-24 text-center">
-        <div className="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-white/70 backdrop-blur text-gray-700 text-xs font-medium mb-4 pointer-events-none">
-          <span className="h-2 w-2 rounded-full bg-purple-500 animate-pulse" /> Actively learning & building
+        <div className="inline-flex items-center px-3 py-1 rounded-full bg-white/70 backdrop-blur text-gray-700 text-xs font-medium mb-4 pointer-events-none">
+          Actively learning & building
         </div>
         <h1 className="text-4xl sm:text-6xl font-extrabold tracking-tight text-gray-900">
           Aspiring AI/ML Engineer
